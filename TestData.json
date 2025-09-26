@@ -69944,6 +69944,8 @@
             "1": "Other"
         },
         "Name": "PeakCatFireFlipbook",
-        "Credits": "toastypagi"
+        "Credits": "toastypagi",
+        "Grid": 8,
+        "Resolution": 1024
     }
 }
