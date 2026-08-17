@@ -10,7 +10,7 @@
 > To legally use the **VFX Studio Texture Library** in your Roblox place or plugin, you must execute a signed copy of this agreement:
 >
 > 1. **Read the Terms:** Review the full license terms below.
-> 2. **Download the Agreement:** Download the **[VFX_Studio_License_Agreement.pdf](./VFX_Studio_License_Agreement.pdf)** file from this repository.
+> 2. **Download the Agreement:** Download the **[VFX_Studio_License_Agreement.pdf](./VFX_Studio_License_Agreement.pdf?raw=true)** file from this repository.
 > 3. **Fill Out Section 1 & Sign:** Fill in your:
 >    - Roblox Username & ID
 >    - Discord Username & ID
