@@ -1,6 +1,6 @@
 # SOFTWARE LICENSE AGREEMENT: VFX STUDIO TEXTURE LIBRARY
 **Terms of Use of the VFX Studio Library**  
-*Effective Date: August 17, 2026*
+*Effective Date: Date of Signature*
 
 ---
 
